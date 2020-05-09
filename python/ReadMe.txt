@@ -21,7 +21,7 @@ map_20200114.yml
 map_20200116.yml    
     by Reid
     based on 'map_20200114.yml' file,  
-    对应这个文件:map_20200116.xlsx 
+    corresponding file:map_20200116.xlsx 
     
     
     
