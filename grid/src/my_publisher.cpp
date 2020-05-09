@@ -26,3 +26,8 @@ int main(int argc, char** argv)
     loop_rate.sleep();
   }
 }
+
+
+
+
+Actually I need to write a report about the alignment problem. Would you please have a look on this problem?
